@@ -1,0 +1,13 @@
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\bin\Debug\netcoreapp3.1\Passagens.exe
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\bin\Debug\netcoreapp3.1\Passagens.deps.json
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\bin\Debug\netcoreapp3.1\Passagens.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\bin\Debug\netcoreapp3.1\Passagens.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\bin\Debug\netcoreapp3.1\Passagens.dll
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\bin\Debug\netcoreapp3.1\Passagens.pdb
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\obj\Debug\netcoreapp3.1\Passagens.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\obj\Debug\netcoreapp3.1\Passagens.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\obj\Debug\netcoreapp3.1\Passagens.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\obj\Debug\netcoreapp3.1\Passagens.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\obj\Debug\netcoreapp3.1\Passagens.dll
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\obj\Debug\netcoreapp3.1\Passagens.pdb
+E:\Meus Documentos\Área de Trabalho\senai lições\Passagens\obj\Debug\netcoreapp3.1\Passagens.genruntimeconfig.cache
